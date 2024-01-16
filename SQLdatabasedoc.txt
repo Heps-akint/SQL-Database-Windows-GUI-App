@@ -1,0 +1,31 @@
+In this project I will build a GUI for interacting with a Mysql database which I will build myself. In this project I will continue learning how to build a database and write database queries along with using tools such as MAMP, Visual Studio 2022, and MySQL workbench.
+
+Intermediate project
+
+Step 0: Download MMAP Free, Visual Studio 2022, and MySQL workbench.
+
+Step 1: Build database using MMAMP (use same self improvement one).
+
+Step 2: Querying the database (Skip step).
+
+Step 3: Creating app and test functionality with dummy data.
+
+**Creating a Desktop app, but will make a Web app from this after finishing project.**
+
+Step 4: Connecting app to MySQL database so we can get actual channels.
+
+Step 5: Implement search box where we can input a partial word and get some search results from a list of channels.
+
+Step 6: Adding channel picture box along with ability for picture to change depending on which row in the database is clicked.
+
+Step 7: Implementing Functionality to add new channels to the database (using INSERT query)
+
+Step 8: Creating foreign key's to add videos assocciated with a channel. Using MySQL Workbench to create links between tables.
+
+Step 9: Use Table Joins to select items using foreign key which will be used in the application. Also creating custom headers for second table.
+
+Step 10: Understanding Design using UML Diagrams.
+
+Step 11: Using Compound Queries to add a list of videos to the sources table.
+
+Step 12: Adding Deletion functionality to the database from the app, and a video player to the app.
